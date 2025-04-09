@@ -39,6 +39,7 @@ sections:
         borderColor: border-(--theme-primary)
         borderRadius: medium
         borderWidth: 2
+        borderStyle: double
     type: HeroSection
     actions: []
   - colors: colors-f
