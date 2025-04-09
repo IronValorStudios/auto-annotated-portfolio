@@ -38,6 +38,7 @@ sections:
         textAlign: left
         borderColor: border-(--theme-primary)
         borderRadius: medium
+        borderWidth: 2
     type: HeroSection
     actions: []
   - colors: colors-f
